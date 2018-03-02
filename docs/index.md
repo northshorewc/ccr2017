@@ -394,7 +394,7 @@ The NSWC is a proud member of the following associations:
 Association | Logo
 ------------|-------------
 [American Water Works Association](https://www.awwa.org/) | ![AWWA Logo](img/awwa-logo-150-729.png)
-[Wisconsin Water Works Association](http://www.wiawwa.org/) | ![Wisconsin Water Works Association Logo](img/wiawwa-logo-150.png)
+[Wisconsin Section of the American Water Works Association](http://www.wiawwa.org/) | ![Wisconsin Water Works Association Logo](img/wiawwa-logo-150.png)
 [The Water Council](http://thewatercouncil.com/) | ![Water Council Logo](img/water-council-logo-150-729.png)
 [Water Research Foundation](http://www.waterrf.org/) | ![Water Research Foundation Logo](img/WRF-logo-150-729.png)
 [West Shore Water Producers Association](http://www.westshorewater.org/) | <center>West Shore Water Producers Association</center>
