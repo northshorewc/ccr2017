@@ -127,14 +127,14 @@ The NSWC is responsible for lead and copper monitoring. To comply with this regu
 
 Please note that lead and copper do not have a maximum contaminant level. Instead they have an action level (AL). To determine compliance with the Lead and Copper Rule, all results collected from monitoring event are arranged lowest to highest and the 90th percentile value is determined. If the 90th percentile value is at or below the AL, no additional action is required[^2].
 
-Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. Of the 30 samples collected, none of them exceeded the action level.
+Please note that "level found" in this section is the 90th percentile value from the latest monitoring event[^3]. Of the 30 samples collected, none of them exceeded the action level.
 
 Substance | MCLG |  AL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
 Copper (2015) | 1.3 mg/L | 1.3 mg/L | 0.048 mg/L </br> <sub>(0.0034 mg/L to 0.110 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives
 Lead (2015) | 0 | 15 ug/L | 9.1 ug/L </br> <sub> (ND to 15 ug/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.
 
-To reduce the amount of lead that can transfer from lead-bearing fixtures and pipes, the NSWC feeds a corrosion inhibitor that contains phosphate. The addition of phosphate has been determined by the USEPA and WNDR to be the best available treatment process for controlling lead in the distribution system.
+To reduce the amount of lead that can transfer from lead-bearing fixtures and pipes to the water, the NSWC feeds a corrosion inhibitor that contains phosphate. The addition of phosphate has been determined by the EPA and WNDR to be the best available treatment process for controlling lead in the distribution system.
 
 *Unregulated Contaminants*
 
@@ -156,7 +156,7 @@ Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbs
 HAA5 (9/17/2013) | 60 ug/L | 60 ug/L | 12.7 ug/L </br> (6.5 - 12.7) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
 TTHM (9/17/2013) | 0 | 80 ug/L | 25.2 ug/L </br>(11.9 - 25.2) |<span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
 
-[^3] *Unregulated Volatile Organic Carbons*
+[^4] *Unregulated Volatile Organic Carbons*
 
 Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
@@ -337,19 +337,19 @@ The North Shore Health Department is another valuable resource. They can provide
 
 ## Treatment Process
 
-The NSWC Water Filtration Plant is a conventional water treatment facility that starts with an intake in Lake Michigan. Water enters our intake crib which is protected with bar screens and a mussel control system.
+Our treatment process starts when water enters our intake crib located in Lake Michigan. Bar screens prevent large objects from entering the intake, and a mussel control system prevents zebra and quagga mussels from accumulating in our pipes and equipment.
 
-Water travelling through the intake passes a traveling screen upon arriving at the raw water pumping station. Gravity forces the water to fill a large shorewell that has several raw water pumps submersed in it. Lake water is pumped from this station to the main treatment plant.
+Gravity forces the water to fill a large shorewell that has several raw water pumps submersed in it. After passing through another screen, lake water is pumped from this station to the main treatment plant.
 
 Upon arriving at the main facility, aluminum sulfate (alum) and polymer are added to promote settling of solids. This water then travels very slowly through a system of rectangular basins that provide a location for particulate matter to accumulate.
 
-Rapid sand filters remove the remaining particulate matter and clean water is stored in a clearwell below the filters. There are intermediate pumps (sometimes referred to as transfer or low lift pumps) which force the filtered water through a fully redundant ultraviolet (UV) disinfection system which inactivates pathogens such as cryptosporidium. Before going into the UV reactors, fluoride is added to prevent tooth decay. After the UV reactors, sodium hypochlorite (a form of chlorine) is used to disinfect any remaining pathogens.
+Rapid sand filters remove the remaining particulate matter and clean water is stored in a clearwell below the filters. There are intermediate pumps (sometimes referred to as transfer or low lift pumps) which force the filtered water through a fully redundant ultraviolet (UV) disinfection system which inactivates pathogens such as cryptosporidium. Before entering the UV reactors, fluoride is added to the water to prevent tooth decay. After passing through the UV reactors, sodium hypochlorite (a form of chlorine) is added to the water to disinfect any remaining pathogens.
 
-Underground piping directs the water to our chlorine contact-time clearwells. While in these clearwells, water continues to react with chlorine so that proper disinfection is achieved.
+Underground piping directs the water to our chlorine contact-time clearwells. While in these clearwells, chlorine has sufficient time to disinfect the water.
 
-Our high service pumps moves this water through a chemical feed vault that allows for the addition of ammonium hydroxide (also referred to as aqua ammonia) and phosphate. The ammonium hydroxide converts the chlorine to another disinfectant, chloramine, that is used by neighboring communities and can reduce disinfection by-products. Phosphate is also added at this point to reduce lead and copper leaching within pipes and plumbing fixtures in your home.
+Our high service pumps draws water from these clearwells into a chemical feed vault where ammonium hydroxide (also referred to as aqua ammonia) and phosphate are added. The ammonium hydroxide converts the chlorine to another disinfectant, chloramine, that is used by neighboring communities and can reduce disinfection by-products formation in the distribution system. Phosphate is also added at this point to reduce lead and copper leaching within pipes and plumbing fixtures in your home.
 
-Water ultimately leaves the plant through meters going to each member community. Within the distribution systems of Fox Point, Glendale, and Whitefish Bay, there are metered interconnections that are kept open to improve pressure and water quality. The NSWC reads and maintains those particular meters.
+Water leaving the main facility is metered as it enters the mains of the member communities. Within the distribution systems of Fox Point, Glendale, and Whitefish Bay, there are metered interconnections that are kept open to improve pressure and water quality. The NSWC also reads and maintains these meters.
 
 * * *
 
@@ -408,6 +408,8 @@ Association | Logo
 
 [^2]: Ten percent (10%) of the results are at or above the 90th percentile and ninety percent (90%) of the samples are below.
 
-[^3]: The sum of these compounds is equal to TTHM. Individually, these compounds are not regulated.
+[^3]: The data in this report shows results from 2015. Compliance monitoring is set by the WDNR; the next round of lead and copper testing is scheduled for the summer of 2018.
+
+[^4]: The sum of these compounds is equal to TTHM. Individually, these compounds are not regulated.
 
 ## Footnotes
