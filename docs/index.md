@@ -1,9 +1,9 @@
 ---
 Author: Eric Kiefer
-Date: 2/28/2018
+Date: 3/12/2018
 ---
 
-[Link to PDF Version](/img/ccr2017.pdf)
+<a href="http://www.northshorewater.org/CCR2017.pdf" download>Click here to download PDF version</a>
 
 * * *
 
