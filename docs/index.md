@@ -115,7 +115,7 @@ Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbs
 Antimony | 6 ug/L | 6 ug/L | 0.18 ug/L | <span style="font-size:150%">&#9786;</span> | Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder
 Barium | 2 mg/L | 2 mg/L | 0.019 mg/L |  <span style="font-size:150%">&#9786;</span> | Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits
 Cyanide (4/21/2014) | 200 ug/L | 200 ug/L | 10 ug/L | <span style="font-size:150%">&#9786;</span> | Discharge from steel/metal factories; discharge from plastic and fertilizer factories
-[^1] Fluoride | 4 mg/L | 4 mg/L | 0.74 mg/L </br> (0.69 - 0.79) | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
+[^1] Fluoride | 4 mg/L | 4 mg/L | 0.75 mg/L </br> (0.69 - 0.79) | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
 Nickel | 100 ug/L | 100 ug/L | 0.67 ug/L | <span style="font-size:150%">&#9786;</span> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products
 Nitrate (NO3-N) | 10 mg/L | 10 mg/L | 0.36 mg/L | <span style="font-size:150%">&#9786;</span> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits
 Sodium | NA | NA | 11 mg/L | <span style="font-size:150%">&#9786;</span> | NA
@@ -133,6 +133,8 @@ Substance | MCLG |  AL | Level Found | Status | Sources of Contamination
 ----------|:----:|:---:|:-----------:|:------:|-------------------------
 Copper (2015) | 1.3 mg/L | 1.3 mg/L | 0.048 mg/L </br> <sub>(0.0034 mg/L to 0.110 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives
 Lead (2015) | 0 | 15 ug/L | 9.1 ug/L </br> <sub> (ND to 15 ug/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.
+
+To reduce the amount of lead that can transfer from lead-bearing fixtures and pipes, the NSWC feeds a corrosion inhibitor that contains phosphate. The addition of phosphate has been determined by the USEPA and WNDR to be the best available treatment process for controlling lead in the distribution system.
 
 *Unregulated Contaminants*
 
@@ -335,19 +337,19 @@ The North Shore Health Department is another valuable resource. They can provide
 
 ## Treatment Process
 
-The Bender Water Filtration Plant is a conventional water treatment facility that starts with an intake in Lake Michigan. Water enters our intake crib which is protected with bar screens and a mussel control system.
+The NSWC Water Filtration Plant is a conventional water treatment facility that starts with an intake in Lake Michigan. Water enters our intake crib which is protected with bar screens and a mussel control system.
 
-Water travelling through the intake passes a traveling screen upon arriving at the Klode Park Station. Gravity forces the water to fill a large shorewell that has several raw water pumps submersed in it. Lake water is pumped from this station to the Bender treatment plant which is nearly a mile away in Glendale.
+Water travelling through the intake passes a traveling screen upon arriving at the raw water pumping station. Gravity forces the water to fill a large shorewell that has several raw water pumps submersed in it. Lake water is pumped from this station to the main treatment plant.
 
-Upon arriving at the Bender treatment plant, aluminum sulfate (alum) and polymer are added to promote settling of solids. This water then travels very slowly through a system of rectangular basins that provide a location for particulate matter to accumulate.
+Upon arriving at the main facility, aluminum sulfate (alum) and polymer are added to promote settling of solids. This water then travels very slowly through a system of rectangular basins that provide a location for particulate matter to accumulate.
 
-Rapid sand filters remove the remaining particulate matter and clean water is stored in a clearwell below the filters. There are intermediate pumps (sometimes referred to as transfer or low lift pumps) which force the filtered water through our fully redundant ultraviolet (UV) disinfection system which inactivates pathogens such as cryptosporidium. Before going into the UV reactors, fluoride is added to prevent tooth decay. After the UV reactors, sodium hypochlorite (a form of chlorine) is used to disinfect any remaining pathogens.
+Rapid sand filters remove the remaining particulate matter and clean water is stored in a clearwell below the filters. There are intermediate pumps (sometimes referred to as transfer or low lift pumps) which force the filtered water through a fully redundant ultraviolet (UV) disinfection system which inactivates pathogens such as cryptosporidium. Before going into the UV reactors, fluoride is added to prevent tooth decay. After the UV reactors, sodium hypochlorite (a form of chlorine) is used to disinfect any remaining pathogens.
 
-Underground piping directs the water to our clearwells (historically they have been referred to as our "reservoirs"). While in the clearwells, water continues to react with chlorine so that proper disinfection is achieved.
+Underground piping directs the water to our chlorine contact-time clearwells. While in these clearwells, water continues to react with chlorine so that proper disinfection is achieved.
 
-Water is drawn out of the clearwells with our high service pumps. Underground piping directs the water to a chemical feed vault that allows for the addition of ammonium hydroxide (also referred to as aqua ammonia) and phosphate. The ammonium hydroxide converts the chlorine to another disinfectant, chloramine, that is used by neighboring communities and can reduce disinfection by-products. Phosphate is also added at this point to reduce lead and copper leaching within pipes and plumbing fixtures in your home.
+Our high service pumps moves this water through a chemical feed vault that allows for the addition of ammonium hydroxide (also referred to as aqua ammonia) and phosphate. The ammonium hydroxide converts the chlorine to another disinfectant, chloramine, that is used by neighboring communities and can reduce disinfection by-products. Phosphate is also added at this point to reduce lead and copper leaching within pipes and plumbing fixtures in your home.
 
-The high service pumps deliver potable water to its members through metering pits located on the grounds of the Bender facility. There are several interconnections between members that the NSWC monitors; however, the bulk of the water stays within each member’s system after initial delivery.
+Water ultimately leaves the plant through meters going to each member community. Within the distribution systems of Fox Point, Glendale, and Whitefish Bay, there are metered interconnections that are kept open to improve pressure and water quality. The NSWC reads and maintains those particular meters.
 
 * * *
 
